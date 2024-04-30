@@ -1,0 +1,10 @@
+   1.write a blog on the difference between document and window object?
+
+JavaScript, the cornerstone of web development, relies on two pivotal objects: Document and Window. While often used interchangeably, they serve distinct roles in the web environment.
+
+The Document object encapsulates the HTML document, providing methods for dynamic manipulation of its elements. It facilitates DOM traversal, content modification, and event handling, empowering developers to craft interactive web experiences.
+
+Conversely, the Window object represents the browser window or tab, serving as the global context for JavaScript execution. It manages window properties, browsing context, and timers, enabling functions like window management, access to browser-related information, and asynchronous code execution.
+
+Understanding these disparities is fundamental for leveraging the full potential of JavaScript in web development endeavors. Mastery of Document and Window objects empowers developers to create dynamic, responsive web applications that captivate users and elevate the browsing experience.
+
